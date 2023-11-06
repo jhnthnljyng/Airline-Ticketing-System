@@ -1,0 +1,39 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "MainBooking",
+            "request": "launch",
+            "mainClass": "airlinesystem2.MainBooking",
+            "projectName": "AirlineSystem2_83efcecd"
+        },
+        {
+            "type": "java",
+            "name": "MainTicket",
+            "request": "launch",
+            "mainClass": "airlinesystem2.MainTicket",
+            "projectName": "AirlineSystem2_83efcecd"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "airlinesystem2.Main",
+            "projectName": "Github Assignment_76d3152f"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "airlinesystem2.Main",
+            "projectName": "AirlineSystem2_83efcecd"
+        },
+        {
+            "name": "Attach to Chrome",
+            "port": 9222,
+            "request": "attach",
+            "type": "chrome",
+            "webRoot": "${workspaceFolder}"
+        }
+    ]
+}

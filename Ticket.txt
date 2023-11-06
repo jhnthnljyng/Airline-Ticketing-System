@@ -1,0 +1,11 @@
+T01|M01|F01|G01|Economy|One Way|Singapore|18/10/2023|1
+T02|M01|F02|G02|Premium|Two Way|Sabah|19/10/2023|2
+T03|M04|F02|G02|Business|One Way|Sabah|19/10/2023|3
+T04|M05|F03|G03|Economy|Two Way|Sarawak|20/10/2023|4
+T05|M03|F01|G01|Economy|One way|Singapore|18/10/2023|1
+T06|M06|F02|G02|Business|Two way|Sabah|19/10/2023|2
+T07|M06|F02|G02|Business|Two way|Sabah|19/10/2023|3
+T08|M03|F01|G01|Economy|One way|Singapore|18/10/2023|23
+T09|M03|F01|G01|Economy|Two way|Singapore|18/10/2023|1
+T10|M01|F01|G01|Economy|One way|Singapore|18/10/2023|2
+T11|M10|F02|G02|Premium|Two way|Sabah|19/10/2023|2

@@ -1,0 +1,11 @@
+B01|S01|M01|F01|1|Economy|One Way|20/08/2023
+B02|S01|M01|F02|2|Premium|Two Way|23/08/2023
+B03|S01|M04|F02|3|Business|One Way|24/08/2023
+B04|S01|M05|F03|4|Economy|Two Way|24/08/2023
+B05|S02|M03|F01|1|Economy|One way|27/09/2023
+B06|S02|M06|F02|2|Business|Two way|27/09/2023
+B07|S02|M06|F02|3|Business|Two way|27/09/2023
+B08|S01|M03|F01|23|Economy|One way|27/09/2023
+B09|S01|M03|F01|1|Economy|Two way|27/09/2023
+B10|S16|M01|F01|2|Economy|One way|27/09/2023
+B11|S01|M10|F02|2|Premium|Two way|28/09/2023
